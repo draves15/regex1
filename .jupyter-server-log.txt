@@ -1,0 +1,28 @@
+[I 15:43:02.573 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-06 15:43:03.344 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 15:43:03.344 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 15:43:03.344 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:43:03.344 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-06 15:43:03.355 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-06 15:43:03.356 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:43:03.363 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 15:43:03.364 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:43:03.365 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:43:03.365 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:43:03.365 NotebookApp] http://jupyter-draves15-2dregex1-2dk5rdjwyv:8888/user/draves15-regex1-k5rdjwyv/?token=...
+[I 15:43:03.365 NotebookApp]  or http://127.0.0.1:8888/user/draves15-regex1-k5rdjwyv/?token=...
+[I 15:43:03.365 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:43:03.368 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:43:05.395 NotebookApp] 302 GET /user/draves15-regex1-k5rdjwyv/ (10.2.0.200) 2.450000ms
+[I 15:43:12.254 NotebookApp] 302 GET /user/draves15-regex1-k5rdjwyv/?token=V2r4M1N7TKOfoTEjMZVXxw (208.38.225.59) 1.520000ms
+[I 15:45:25.091 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
