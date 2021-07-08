@@ -6,6 +6,10 @@ channels:
 dependencies:
   - r-base=4.0.1
   - python=3.8.8
+  - r-SparseM
+  - r-plotly
+  - r-stringr
+  - r-quantreg
   - r-dplyr
   - r-ggplot2
   - r-reshape2
